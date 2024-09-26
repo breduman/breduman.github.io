@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://breduman.github.io/sitemap.breduman.gz
+Sitemap: https://breduman.github.io/app/sitemap.breduman.gz
+Sitemap: https://breduman.github.io/assets/sitemap.breduman.gz
+Sitemap: https://breduman.github.io/css/sitemap.breduman.gz
+Sitemap: https://breduman.github.io/data/sitemap.breduman.gz
+Sitemap: https://breduman.github.io/includes/sitemap.breduman.gz
+Sitemap: https://breduman.github.io/item/sitemap.breduman.gz
+Sitemap: https://breduman.github.io/src/sitemap.breduman.gz
